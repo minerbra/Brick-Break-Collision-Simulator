@@ -1,0 +1,15 @@
+﻿  MainCode.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'Source/MainCode.cpp')
+  C:\Users\brady\Desktop\CS330Content\CS330Content\Libraries\GLFW\include\GLFW\glfw3.h(123,1):
+  see previous definition of 'APIENTRY'
+  
+C:\Users\brady\Desktop\CS330Content\CS330Content\Projects\BrickBreakCollisions\Source\MainCode.cpp(11,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brady\Desktop\CS330Content\CS330Content\Projects\BrickBreakCollisions\Source\MainCode.cpp(80,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\brady\Desktop\CS330Content\CS330Content\Projects\BrickBreakCollisions\Source\MainCode.cpp(85,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brady\Desktop\CS330Content\CS330Content\Projects\BrickBreakCollisions\Source\MainCode.cpp(86,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brady\Desktop\CS330Content\CS330Content\Projects\BrickBreakCollisions\Source\MainCode.cpp(87,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\brady\Desktop\CS330Content\CS330Content\Projects\BrickBreakCollisions\Source\MainCode.cpp(254,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\brady\Desktop\CS330Content\CS330Content\Projects\BrickBreakCollisions\Source\MainCode.cpp(285,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\brady\Desktop\CS330Content\CS330Content\Projects\BrickBreakCollisions\Source\MainCode.cpp(328,58): warning C4305: 'argument': truncation from 'double' to 'float'
+  8-2_Assignment.vcxproj -> C:\Users\brady\Desktop\CS330Content\CS330Content\Projects\BrickBreakCollisions\Debug\8-2_Assignment.exe
